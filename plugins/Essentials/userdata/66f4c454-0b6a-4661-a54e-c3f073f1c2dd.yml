@@ -1,0 +1,37 @@
+lastAccountName: Betri_Payley
+timestamps:
+  login: 1558363297063
+  lastteleport: 1558366635785
+  logout: 1558367120625
+ipAddress: 10.0.20.51
+godmode: false
+afk: false
+homes:
+  home:
+    world: world
+    x: -221.3982695834893
+    y: 64.0
+    z: -265.90075345464044
+    yaw: 82.51901
+    pitch: 9.299796
+  netherfort:
+    world: world_nether
+    x: -30.497487666700884
+    y: 73.0
+    z: -103.99829233266522
+    yaw: -285.28223
+    pitch: 10.65003
+lastlocation:
+  world: world_nether
+  x: -160.79858710339215
+  y: 75.0
+  z: -115.57113979644859
+  yaw: 199.21094
+  pitch: 23.850252
+logoutlocation:
+  world: world
+  x: -253.3567747735587
+  y: 64.0
+  z: -236.7431831197746
+  yaw: 185.71033
+  pitch: 9.899735

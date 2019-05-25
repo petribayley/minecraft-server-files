@@ -1,0 +1,28 @@
+lastAccountName: Fire3lephnt
+timestamps:
+  login: 1558339540043
+  lastteleport: 1557838313787
+  logout: 1558339559291
+ipAddress: 144.136.140.84
+homes:
+  home:
+    world: world
+    x: -243.59651217866136
+    y: 59.0
+    z: -227.307212400302
+    yaw: -188.25714
+    pitch: 31.050184
+lastlocation:
+  world: world
+  x: 703.01223715633
+  y: 64.0
+  z: -781.3049809705687
+  yaw: 139.92032
+  pitch: 1.118412
+logoutlocation:
+  world: world
+  x: 44.6917772273625
+  y: 66.0
+  z: -90.00978500069982
+  yaw: 57.05789
+  pitch: 6.1496124

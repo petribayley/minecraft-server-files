@@ -1,0 +1,29 @@
+lastAccountName: Nickodork
+timestamps:
+  login: 1558089489835
+  lastteleport: 1557986676783
+  logout: 1558089653876
+ipAddress: 49.177.138.122
+homes:
+  home:
+    world: world
+    x: -246.04707387909622
+    y: 64.0
+    z: -228.5410365557828
+    yaw: -26.338135
+    pitch: 21.427711
+lastlocation:
+  world: world
+  x: 1368.6701921474923
+  y: 62.0
+  z: -251.35253111099505
+  yaw: -281.12085
+  pitch: 8.843257
+logoutlocation:
+  world: world
+  x: -246.46922522821265
+  y: 64.0
+  z: -230.5872117410198
+  yaw: 180.05693
+  pitch: 20.30136
+afk: false
